@@ -9,27 +9,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-  - [Clone the Repository](#clone-the-repository)
-  - [Environment Setup](#environment-setup)
-  - [Installing Dependencies](#installing-dependencies)
-  - [Configure Environment Variables](#configure-environment-variables)
-- [Usage](#usage)
-  - [Data Exploration](#data-exploration)
-  - [Model Training](#model-training)
-  - [Model Deployment](#model-deployment)
-  - [Case Study: UNOSAT Flood Event](#case-study-unosat-flood-event)
-- [Technical Details](#technical-details)
-  - [Data Pre-Processing](#data-pre-processing)
-  - [Model Architecture](#model-architecture)
-  - [Training Pipeline](#training-pipeline)
-  - [Inference and Deployment](#inference-and-deployment)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## Overview
 
